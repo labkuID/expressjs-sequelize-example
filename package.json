@@ -1,9 +1,10 @@
 {
-  "name": "init",
-  "version": "0.0.0",
-  "private": true,
+ "name": "expressjs-sequelize-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
   "scripts": {
-    "start": "node ./bin/www"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
     "body-parser": "~1.18.2",
